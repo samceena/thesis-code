@@ -3,28 +3,28 @@
 <head>
 
     <head>
-        <title>Thesis Code</title>
+        <title>Stamp Lander</title>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0">
         <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-        <meta name="description" content="Thesis code challenege">
+        <meta name="description" content="Stamp Lander">
         <meta content="yes" name="apple-mobile-web-app-capable">
   
         <meta property="og:locale" content="en_US">
-        <meta property="og:site_name" content="Thesis code challenege">
-        <meta property="og:title" content="Thesis code challenege">
+        <meta property="og:site_name" content="Stamp Lander">
+        <meta property="og:title" content="Stamp Lander">
         <meta property="og:url" content="">
-        <meta property="og:description" content="Thesis code challenege">
+        <meta property="og:description" content="Stamp Lander">
         <meta property=og:image content="./assets/images/bg-desktop.jpg">
-        <meta name="twitter:title" content="Thesis code challenege">
+        <meta name="twitter:title" content="Stamp Lander">
         <meta name="twitter:url" content="">
-        <meta name="twitter:description" content="Thesis code challenege">
+        <meta name="twitter:description" content="Stamp Lander">
         <meta name="twitter:card" content="">
         <meta name=twitter:image content="./assets/images/bg-desktop.jpg">
         <meta name="twitter:site" content="">
   
-  <title>Thesis Code</title>
+  <title>Stamp Lander</title>
   <script type="text/javascript" src="./assets/js/app.min.js"></script>
   <link rel="stylesheet" type="text/css" href="./assets/css/style.min.css">
 </head>
